@@ -1,15 +1,18 @@
 
 
 body{
-  align: center
-  font-family: sans-serif;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px
+  font-family:sans-serif;
   background-color: #d3d3d3;
 }
 
 h1,h2 {
   color:#white;
   background:#828fee;
-  margin-left:20px;
+  background-position: 0px;
+  margin-lef:20px;
   font-family: sans-serif;}
 p {margin-left: 20px}
 
