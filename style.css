@@ -1,10 +1,15 @@
+<style>
+
+body{font-family: sans-serif;}
 
 h1,h2 {
   color:yellow;
-  background:violet;
+  background:#828fee;
   margin-left:20px;
-  font-family: sans-serif;
-}
+  font-family: sans-serif;}
+p {margin-left: 20px}
+
+
 
 #Curriculum {
   color:red;
