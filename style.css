@@ -1,6 +1,8 @@
 <style>
 
-body{font-family: sans-serif;}
+body{font-family: sans-serif;
+background-color: lightgray;
+}
 
 h1,h2 {
   color:yellow;
