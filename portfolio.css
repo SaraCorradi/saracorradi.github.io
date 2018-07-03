@@ -12,7 +12,7 @@ body{
 }
 
 .portfolio-h{background-color:#eeeeee}
-.portfolio{background-image: url("P4250389c.JPG");
+.portfolio{background-image:("P4250389c.JPG");
       height:100%;
       background-position: center;
    background-repeat: no-repeat;
