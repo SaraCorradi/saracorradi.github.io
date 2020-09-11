@@ -122,3 +122,15 @@ html {
     font-size: 40px;
   }
 }
+
+
+p{
+  text-align: center;
+
+}
+.text{font-family: 'Montserrat', sans-serif;
+      color:#222831;
+      font-size: 20px;
+    margin-top: 3em;
+    margin-bottom:3em;
+  }
