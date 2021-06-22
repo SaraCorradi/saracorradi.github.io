@@ -1,7 +1,7 @@
 body,
 html {
   height: 100%;
-  background: #110101;
+  background: #F7CACA;
   font-family: 'Roboto', sans-serif;
   overflow: hidden;
 }
@@ -129,7 +129,7 @@ p{
 
 }
 .text{font-family: 'Montserrat', sans-serif;
-      color:#222831;
+      color:#F7CACA;
       font-size: 20px;
     margin-top: 3em;
     margin-bottom:3em;
